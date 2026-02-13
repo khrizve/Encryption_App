@@ -1,4 +1,4 @@
-# 🌟 MagicPix - Image to Audio Spellcaster 🔊🗆️
+# 🌟 MagicPix - Image to Audio Spellcaster
 
 **MagicPix** is a fantasy-themed mobile application that transforms images into audio and magically reconstructs them back to their original form. It’s more than just image encryption—it’s digital alchemy in your pocket. Built using **Java** in **Android Studio**, MagicPix combines image processing with audio manipulation to create a whimsical yet secure way to encode and decode image data.
 

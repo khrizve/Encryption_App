@@ -71,7 +71,7 @@
 
 ## 👑 Credits
 
-Developed with magic by **Rizve** (a.k.a **Code Sorcerer**)
+Developed with magic by **Sorcerer**
 Feel free to fork, star, and conjure your own version of MagicPix!
 
 ---
